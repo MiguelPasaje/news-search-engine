@@ -13,7 +13,7 @@ export class FormularioComponent {
 
   categorias: any[] = [
     { value: 'general', nombre: 'General' },
-    { value: 'busines', nombre: 'Negocios' },
+    { value: 'business', nombre: 'Negocios' },
     { value: 'entertainment', nombre: 'entretenimiento ' },
     { value: 'health', nombre: 'Salud' },
     { value: 'science', nombre: 'ciencia' },
